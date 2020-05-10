@@ -2,7 +2,7 @@
 Simple Python code for beginners.
 Learn the basics here!
 
-To install an Code Editor or an IDE* please look at the referenced articles below:
+To install an Code Editor or an IDE* please look at the references below:
 
 **1. Pycharm:**
 Text: https://www.guru99.com/how-to-install-python.html
