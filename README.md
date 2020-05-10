@@ -2,6 +2,9 @@
 Simple Python code for beginners.
 Learn the basics here!
 
+by Edilson de Souza
+email: edilson.souza@gmail.com
+
 To install an Code Editor or an IDE* please look at the references below:
 
 **1. Pycharm:**
