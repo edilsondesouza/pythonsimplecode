@@ -5,7 +5,7 @@ Learn the basics here!
 by Edilson de Souza
 email: edilson.souza@gmail.com
 
-To install an Code Editor or an IDE* please look at the references below:
+To install a Code Editor or an IDE* please look at the references below:
 
 **1. Pycharm:**
 Text: https://www.guru99.com/how-to-install-python.html
